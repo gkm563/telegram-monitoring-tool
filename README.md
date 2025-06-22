@@ -1,7 +1,19 @@
 # Telegram-Controlled Monitoring Tool (Python)
+---
 
-This tool lets you remotely monitor and control your system using Telegram.  
-Built by **Gautam Kumar Maurya (GKM)** using Python and the Telegram Bot API.
+##  Disclaimer
+
+> ❗ **This project is strictly for educational and ethical learning purposes only.**  
+> ❗ **Do NOT use this tool on any system or network that you do not own or have permission to access.**  
+> ❗ **The creator (GKM) is not responsible for any misuse or illegal activity performed using this code.**
+
+---
+
+##  Created by
+
+**Gautam Kumar Maurya (GKM)**  
+Telegram Bot + Python Automation Enthusiast  
+
 
 ---
 
